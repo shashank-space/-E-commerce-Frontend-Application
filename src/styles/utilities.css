@@ -1,0 +1,18 @@
+.app-container{
+    width:90%;
+    max-width:1280px;
+    margin:auto;
+}
+
+.primary-btn{
+    background:var(--primary);
+    color:white;
+    border:none;
+    padding:12px 24px;
+    border-radius:10px;
+    transition:.3s;
+}
+
+.primary-btn:hover{
+    opacity:.9;
+}
